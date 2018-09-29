@@ -1,0 +1,11 @@
+table {
+    width: 80%;
+  }
+
+li{
+  display: inline-block;
+  max-width:50%; /* limit width */
+  //word-break:break-all; /* wrap extended text*/
+  //border:1px solid red /* demo */
+  margin: 50px;
+}
